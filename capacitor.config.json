@@ -1,0 +1,6 @@
+{
+  "appId": "com.mycashier.app",
+  "appName": "Cashier",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
